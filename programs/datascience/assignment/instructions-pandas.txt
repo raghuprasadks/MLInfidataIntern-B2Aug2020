@@ -1,0 +1,10 @@
+1. Create a column total
+total = sub1+sub2+sub3
+2. Find the topper details
+3. Find the topper in CS and mech
+4. Find the topper in the
+respective colleges and braches
+5. Find subject wise topper
+for different colleges
+6. Find the subject wise mean,min,max,
+deviation
